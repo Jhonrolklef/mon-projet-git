@@ -1,1 +1,1 @@
-"ceci est mon 1er fichier avec GIT"
+"ceci est mon 1er fichier avec GIT et cette fichier est egalement presente sur Main"
